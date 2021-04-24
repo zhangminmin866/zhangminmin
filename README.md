@@ -1,7 +1,5 @@
-# hello-world
-Just another repository
+# website
 
-Hi Humans!
+---
 
-Teddy here,I like Node, js and Coffeescript (that's what made of!).
-I've had tacos on the moon and find them far superior to Earth tacos.
+This is my own website, welcome!
